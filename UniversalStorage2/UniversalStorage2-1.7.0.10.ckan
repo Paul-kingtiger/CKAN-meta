@@ -34,4 +34,10 @@
     },
     "download_content_type": "application/zip",
     "x_generated_by": "netkan"
+    
+    "suggests":[
+		{
+		"name": "Kerbal Inventory System"
+		}
+		]
 }
